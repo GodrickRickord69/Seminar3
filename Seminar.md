@@ -37,7 +37,10 @@
 Для удаления ветки ввести команду "git branch -d 'name branch'"
 
 ## Работа с картинками
-![Картинка](https://vsegda-pomnim.com/uploads/posts/2022-04/1649125518_122-vsegda-pomnim-com-p-krasivie-vidi-prirodi-foto-147.jpg)
+Для добавления *картинки* в текст файла необходимо указать её URL-адрес:
+![Краткое описание](URL-адрес картинки)
+
+![Картинка1](https://vsegda-pomnim.com/uploads/posts/2022-04/1649125518_122-vsegda-pomnim-com-p-krasivie-vidi-prirodi-foto-147.jpg)
 
 ---
 
