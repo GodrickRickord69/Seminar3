@@ -40,8 +40,16 @@ Git - это одна из реализаций распределённых с�
 
 ---
 
+![Картинка2](https://vsegda-pomnim.com/uploads/posts/2022-04/1649135254_99-vsegda-pomnim-com-p-peizazhi-prirodi-rossii-foto-111.jpg)
+
 ## Работа с ссылками
+### Git download
 [Git download](https://git-scm.com/download/win)
+
+---
+
+### Visual Studio Code download
+[Visual Studio Code](https://code.visualstudio.com/download)
 
 ---
 
