@@ -47,6 +47,8 @@
 ![Картинка2](https://vsegda-pomnim.com/uploads/posts/2022-04/1649135254_99-vsegda-pomnim-com-p-peizazhi-prirodi-rossii-foto-111.jpg)
 
 ## Работа с ссылками
+Для добавления *ссылки* используется тот же принцип что и с картинками, **но в начале не ставится знака "!".** [Краткое описание](Адрес ссылки).
+
 ### Git download
 [Git download](https://git-scm.com/download/win)
 
